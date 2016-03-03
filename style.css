@@ -1,0 +1,61 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav {
+    width: 100%;
+    background-color: ghostwhite;
+    padding: 8px
+}
+
+.levo{
+    float: left;
+}
+
+.desno {
+    float: right;
+    
+}
+
+.iskalnik {
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 120px;
+}
+.iskalnik img { 
+    margin-bottom: 25px;
+}
+
+
+.iskalno-polje{
+   width: 95%;
+   padding: 13px;
+   border: 1px solid lightblue;
+   font-size: 10px; 
+    
+}
+
+.gumb{
+    background-color: gainsboro;
+    padding:12px;
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+    margin-top: 25px;
+    
+}
+.gumb{
+    background-color: lavender;
+    padding: 8px;
+}
+
+.footer {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+}
